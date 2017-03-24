@@ -3,7 +3,7 @@ intro github
 
 ## Per sagde vi skulle lave et hithub repository  
 
-[facebook] (http://www.facebook.com)
+[facebook](http://www.facebook.com)
 
 * hej
 * hej
